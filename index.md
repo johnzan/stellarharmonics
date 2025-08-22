@@ -2,7 +2,7 @@
 
 layout: page
 
-title: stellarharmonics
+title: stellar harmonics
 
 tagline: Stellar Harmonics - Astronomy, Physics and Computing
 
