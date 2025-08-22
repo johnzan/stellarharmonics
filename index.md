@@ -1,14 +1,12 @@
+# Welcome to my site
 
+### This is fancy
 
-layout: page
+Stellar Harmonics - Astronomy, Physics and Computing
 
-title: stellar harmonics
+My journey to creating music from stellar spectroscpy
 
-tagline: Stellar Harmonics - Astronomy, Physics and Computing
-
-description: My journey to creating music from stellar spectroscpy
-
-
+This is written in markdown
 
 
 
